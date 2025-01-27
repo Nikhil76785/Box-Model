@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <style>
+            #img1{float: left}
+            #img2{float: right}
+        </style>
+    </head>
+    <body>
+        <h1>Float</h1>
+        <p>
+            <img id="img1" src="Flower.jpeg" style="height: 80px; width: 80px;">
+            <img id="img2" src="Flower.jpeg" style="height: 80px; width: 80px;">
+            A flower, also known as a bloom or blossom, is the reproductive structure found in flowering plants. Flowers consist of a combination of vegetative organs.            
+        </p>
+    </body>
+</html>

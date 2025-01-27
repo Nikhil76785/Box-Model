@@ -1,0 +1,91 @@
+<html>
+
+    <head>
+        <title>Coding!</title>
+
+        <style type="text/css">
+
+            .eg1{width: 1000px;
+                 background-color: rgb(0, 247, 255);
+                 color: crimson;
+                 border: 30px dotted brown;
+                 border-radius: 20px;
+                 padding: 20px 30px 40px 23px;
+                 float: right;
+                 font-size: 25px;}
+
+            .eg2{width: 1000px;
+                 background-color: rgb(255, 0, 242);
+                 color: rgb(200, 255, 0);
+                 border: 11px dashed purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 25px}
+
+            .eg3{width: 1000px;
+                 background-color: rgb(30, 255, 0);
+                 color: rgb(255, 0, 0);
+                 border: 11px dashed rgb(0, 217, 255);
+                 border-radius: 21px;
+                 padding: 30px 29px 20px 43px;
+                 float: right;
+                 font-size: 25px}
+
+            .eg4{width: 1000px;
+                 background-color: rgb(255, 72, 0);
+                 color: rgb(0, 68, 255);
+                 border: 11px dashed purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 30px}
+
+            h1{color: red;
+               background-color: bisque;}     
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Coding!!!</h1>
+        <hr>
+        <p class="eg1">HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the
+        creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such
+        as tags and attributes.
+        
+        HTML has a lot of use cases, namely:
+        
+        Web development. Developers use HTML code to design how a browser displays web page elements, such as text, hyperlinks,
+        and media files.
+        Internet navigation. Users can easily navigate and insert links between related pages and websites as HTML is heavily
+        used to embed hyperlinks.
+        Web documentation. HTML makes it possible to organize and format documents, similarly to Microsoft Word.</p>
+        <p class="eg2">Scratch is a high-level, block-based visual programming language and website aimed primarily at children as an
+        educational tool, with a target audience of ages 8 to 16.[9][10] Users on the site can create projects on the website
+        using a block-like interface. Scratch was conceived and designed through collaborative National Science Foundation
+        grants awarded to Mitchel Resnick and Yasmin Kafai.[11] Scratch is developed by the MIT Media Lab and has been
+        translated into 70+ languages, being used in most parts of the world. Scratch is taught and used in after-school
+        centers, schools, and colleges, as well as other public knowledge institutions. As of 15 February 2023, community
+        statistics on the language's official website show more than 123 million projects shared by over 103 million users, and
+        more than 95 million monthly website visits.[12] Overall, over 1 billion total projects have been created (including
+        unshared projects), with the site reaching its 1,000,000,000th project in April 2024.</p>
+        <p class="eg3">Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built
+        in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application
+        Development, as well as for use as a scripting or glue language to connect existing components together. Python's
+        simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python
+        supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the
+        extensive standard library are available in source or binary form without charge for all major platforms, and can be
+        freely distributed.</p>
+        <p class="eg4">Computer programming or coding is the composition of sequences of instructions, called programs, that computers can
+        follow to perform tasks.[1][2] It involves designing and implementing algorithms, step-by-step specifications of
+        procedures, by writing code in one or more programming languages. Programmers typically use high-level programming
+        languages that are more easily intelligible to humans than machine code, which is directly executed by the central
+        processing unit. Proficient programming usually requires expertise in several different subjects, including knowledge of
+        the application domain, details of programming languages and generic code libraries, specialized algorithms, and formal
+        logic.</p>
+    </body>
+
+</html> 

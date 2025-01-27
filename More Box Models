@@ -1,0 +1,122 @@
+<html>
+
+    <head>
+        <title>Music!</title>
+
+        <style type="text/css">
+
+            .eg1{width: 1000px;
+                 background-color: rgb(0, 247, 255);
+                 color: crimson;
+                 border: 30px dotted brown;
+                 border-radius: 20px;
+                 padding: 20px 30px 40px 23px;
+                 float: right;
+                 font-size: 25px;}
+
+            .eg2{width: 1000px;
+                 background-color: rgb(255, 0, 242);
+                 color: rgb(200, 255, 0);
+                 border: 11px dashed purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 25px}
+
+            .eg3{width: 1000px;
+                 background-color: rgb(30, 255, 0);
+                 color: rgb(255, 0, 0);
+                 border: 11px dotted rgb(0, 217, 255);
+                 border-radius: 21px;
+                 padding: 30px 29px 20px 43px;
+                 float: right;
+                 font-size: 25px}
+
+            .eg4{width: 1000px;
+                 background-color: rgb(255, 72, 0);
+                 color: rgb(0, 68, 255);
+                 border: 11px dashed purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 30px}
+
+            .eg5{width: 1000px;
+                 background-color: rgb(226, 64, 86);
+                 color: rgb(136, 255, 0);
+                 border: 11px dotted rgb(0, 128, 100);
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: right;
+                 font-size: 30px}
+
+            .eg7{width: 1000px;
+                 background-color: rgb(212, 0, 255);
+                 color: rgb(0, 68, 255);
+                 border: 11px dashed rgb(0, 128, 32);
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: right;
+                 font-size: 30px}
+
+            .eg6{width: 1000px;
+                 background-color: rgb(0, 153, 255);
+                 color: rgb(255, 0, 21);
+                 border: 11px dotted rgb(73, 128, 0);
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 30px}
+
+            .eg8{width: 1000px;
+                 background-color: rgb(0, 255, 157);
+                 color: rgb(0, 60, 255);
+                 border: 11px dashed purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 30px}
+
+            .egyay{width: 1000px;
+                 background-color: rgb(255, 94, 0);
+                 color: rgb(81, 255, 0);
+                 border: 11px dashed purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: left;
+                 font-size: 30px}
+                 
+            .egwoo{width: 1000px;
+                 background-color: rgb(0, 60, 255);
+                 color: rgb(0, 255, 200);
+                 border: 11px dotted purple;
+                 border-radius: 60px;
+                 padding: 30px 20px 20px 43px;
+                 float: right;
+                 font-size: 30px}
+
+
+
+            h1{color: red;}     
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Coding!!!</h1>
+        <hr>
+        <p class="eg3">Music is a harmonious sound.</p>
+        <p class="eg4">It spreads joy in a person’s life.</p>
+        <p class="eg1">We can create music by playing an instrument.</p>
+        <p class="eg2">There are many genres of music.</p>
+        <p class="eg5">It is considered a universal language.</p>
+        <p class="eg6">Music has healing qualities.</p>
+        <p class="eg7">Music is also present in nature.</p>
+        <p class="eg8">Music often connects people.</p>
+        <p class="egwoo">When we add voice to an instrument, it is known as singing.</p>
+        <p class="egyay">A person who produces music is known as a musician.</p>
+    </body>
+
+</html> 
